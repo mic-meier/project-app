@@ -28,7 +28,8 @@
     "**/*.ts",
     "**/*.tsx",
     ".next/types/**/*.ts",
-    "/Users/el_mayo/code/next13-starter/.next/types/**/*.ts"
+    "/Users/el_mayo/code/next13-starter/.next/types/**/*.ts",
+    "/Users/el_mayo/code/project-app/.next/types/**/*.ts"
   ],
   "exclude": ["node_modules"]
 }
