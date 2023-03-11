@@ -18,7 +18,7 @@ async function main() {
       email: 'bruce@wayne.com',
       firstName: 'Bruce',
       lastName: 'Wayne',
-      password: 'password',
+      password: 'Selina',
       projects: {
         create: new Array(5).fill(1).map((_, i) => ({
           name: `Project ${i}`,
